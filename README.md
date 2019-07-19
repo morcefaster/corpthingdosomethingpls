@@ -1,4 +1,5 @@
 # CorpThingDoSomethingPls
+
 ##CorpThing, pls.
 
 ##### Checks for updates on nightcorp.net every 15 seconds
