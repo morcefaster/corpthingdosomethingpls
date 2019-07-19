@@ -1,0 +1,8 @@
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\264594_65641-lq.wav
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\CorpthingPls.exe.config
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\CorpthingPls.exe
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\CorpthingPls.pdb
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\obj\Debug\CorpthingPls.exe
+C:\Users\Enhance\Documents\Visual Studio 2015\Projects\ConsoleApplication23\ConsoleApplication23\obj\Debug\CorpthingPls.pdb
