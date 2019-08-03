@@ -14,3 +14,7 @@ I did not actually test the logging to file part so it might crash. But it will 
 
 P.P.S.
 Yes I struggled with markdown.
+
+
+# DEPRECATED
+Join discord bot instead. https://github.com/morcefaster/corpwatcher https://discordapp.com/invite/5gqu9CC
